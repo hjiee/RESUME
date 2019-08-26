@@ -18,7 +18,7 @@
 ```  
 GlobalScope.launch {
     repeat(life) { i ->
-        println("I'm developing $i ...")
+        println("I'm developing +$i ...")
         delay(an hour a day)
     }
 }
@@ -36,17 +36,27 @@ delay(life)
 
 ## 프로젝트
 #### 회사
-- ()
-  - 기간 : 
+- 제약회사영업 사원을 위한 앱(B2B)
+  - 소속 : (주)애니모비
+  - 기간 : 2019.06~2019.08
+  - 역할 : 앱 클라이언트 신규 개발
+  - 기술 : Java, Retrofit
+
+- 사내직원교육용 앱(B2B)
+  - 소속 : (주)애니모비
+  - 기간 : 2019.02~2019.03
+  - 역할 : 앱 클라이언트 유지보수 및 리팩토링
+  - 기술 : Java, Retrofit
+
   
 #### 개인
 - GitAwards   
   - 기간 : 2019.07 ~ 현재
-  - 설명 :  
+  - 기술 :  Kotlin, MVVM, Koin, LiveData, DataBinding, Retrofit
   
 - Health Schdule
   - 기간 : 2019.05 ~ 현재
-  - 설명 : 
+  - 기술 : Kotlin, MVP, Firebase Database
   
   
   
