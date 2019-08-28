@@ -35,7 +35,7 @@ delay(life)
  - 2018.12 ~ 현재
 
 ## 프로젝트
-#### 회사
+#### 📱회사
 - 제약회사영업 사원을 위한 앱(B2B)
   - 소속 : (주)애니모비
   - 기간 : 2019.06~2019.08
@@ -49,12 +49,12 @@ delay(life)
   - 기술 : Java, Retrofit
 
   
-#### 개인
-- GitAwards   
+#### 📱개인
+- GitAwards🏆   
   - 기간 : 2019.07 ~ 현재
   - 기술 :  Kotlin, MVVM, Koin, LiveData, DataBinding, Retrofit
   
-- Health Schdule
+- Health Schdule🏃🏻‍
   - 기간 : 2019.05 ~ 현재
   - 기술 : Kotlin, MVP, Firebase Database
   
