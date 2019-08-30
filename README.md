@@ -1,6 +1,7 @@
 # 이력서
 [![HitCount](http://hits.dwyl.io/hjiee/RESUME.svg)](http://hits.dwyl.io/hjiee/RESUME)
-
+![RepoSize](https://img.shields.io/github/repo-size/hjiee/RESUME)
+![lastCommit](https://img.shields.io/github/last-commit/hjiee/RESUME?color=red)
 ## 소개  
 <img src="https://user-images.githubusercontent.com/39892463/63606651-83d19080-c60b-11e9-8186-5ee0545fd841.jpg" width="30%"></img>
 
