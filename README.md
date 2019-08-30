@@ -50,11 +50,13 @@ delay(life)
 
   
 #### 📱개인
-- GitAwards🏆   
+<img src="https://user-images.githubusercontent.com/39892463/64025062-d31d4100-cb76-11e9-9a26-bc13161de558.png" width="10%"></img>
+
+- 🏆GitAwards   
   - 기간 : 2019.07 ~ 현재
   - 기술 :  Kotlin, MVVM, Koin, LiveData, DataBinding, Retrofit
   
-- Health Schdule🏃🏻‍
+- 🏃🏻‍Health Schdule
   - 기간 : 2019.05 ~ 현재
   - 기술 : Kotlin, MVP, Firebase Database
   
